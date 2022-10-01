@@ -1,3 +1,6 @@
+//Gaurang
+//https://github.com/gaurang7goel
+
 #include <stdio.h>
 #include <conio.h>
 
